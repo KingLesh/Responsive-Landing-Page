@@ -1,0 +1,17 @@
+ <form id="form_login">
+        <p>
+            <input type="text" id="name" placeholder="name" />
+        </p>
+        <p>
+            <input type="emailaddress" id="emailaddress" placeholder="emailaddress" />
+        </p>
+      <p>
+            <input type="dateselecteor" id="dateselecteor" placeholder="dateselector" />
+        </p>
+        <p>
+            <input type="text" id="password" placeholder="password" />
+        </p>
+        <p>
+            <button id="submitbutton" type="button">Submit</button>
+        </p>
+    </form>
